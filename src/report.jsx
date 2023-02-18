@@ -86,7 +86,7 @@ return false;
                 <Form.Group>
                   <Form.Control
                     type="text"
-                    placeholder="ระบุเลขไปรษณีย์ 5 หลัก"
+                    placeholder="ระบุเลขรหัสไปรษณีย์ 5 หลัก"
                     onChange={this.filter}
                     onKeyUp={this.filter}
                     maxLength="5"
@@ -124,3 +124,4 @@ return false;
     );
   }
 }
+
