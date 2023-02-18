@@ -66,7 +66,7 @@ return false;
       <div>
         <Navbar bg="primary" variant="dark">
           <Container>
-            <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์</Navbar.Brand>
+            <Navbar.Brand href="#">ค้นหาด้วยรหัสไปรษณีย์</Navbar.Brand>
             <div class="text-light fw-bold">{"65130093 ภัทรพงษ์ มีนุชนาถ"}</div>
           </Container>
         </Navbar>
