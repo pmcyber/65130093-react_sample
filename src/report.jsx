@@ -65,9 +65,9 @@ return false;
     const { district } = this.state;
     return (
       <div>
-        <Navbar bg="primary" variant="dark">
+        <Navbar bg="success" variant="dark">
           <Container>
-            <Navbar.Brand href="#">ค้นหาด้วยรหัสไปรษณีย์</Navbar.Brand>
+            <Navbar.Brand href="#" >ค้นหาด้วยรหัสไปรษณีย์</Navbar.Brand>
             <ul class="navbar-nav me-auto"><li class="nav-item"><a href="#" class="text-light">Home</a></li></ul>
             <div class="text-light fw-bold">
               <Image  src="https://scontent.fbkk15-1.fna.fbcdn.net/v/t1.18169-9/206236_105439512874220_648208_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=fGeaPXKd7uEAX_GiSHK&_nc_oc=AQnNDCFJwnzoNUDgpeXIr_XRYPcgOUKuEpApzCHfWH5SMLn_U1x-f-KsY1Er8jjz_k0&_nc_ht=scontent.fbkk15-1.fna&oh=00_AfASFTnYLcpX0eyBanySo5F9CIGwdsY7bCF1b6JoKPkEGg&oe=6417FF0B" roundedCircle thumbnail me-5 style={{width:"50px",height:"50px"}} ></Image>
