@@ -72,7 +72,7 @@ return false;
         </Navbar>
         <Container>
           <div style={{ paddingTop: "50px" }}>
-            <Row>
+            <Row> 
               <Col lg="9">
                 <div class="row g-3">
                   <div class="col-12 col-lg-auto h3">อำเภอ/เขต <span class="alert alert-primary p-2 rounded "> {this.state.amphur_name}</span> </div>
