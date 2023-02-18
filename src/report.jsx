@@ -80,9 +80,9 @@ return false;
             <Row> 
               <Col lg="9">
                 <div class="row g-3">
-                  <div class="col-12 col-lg-auto h3">อำเภอ/เขต <span class="alert alert-primary p-2 rounded "> {this.state.amphur_name}</span> </div>
-                  <div class="col-12 col-lg-auto h3">จังหวัด{" "} <span class="alert alert-primary p-2 rounded "> {this.state.province_name}</span></div>
-                  <div class="col-12 col-lg-auto h3"> รหัสไปรษณีย์ <span class="alert alert-primary p-2 rounded "> {this.state.zipcode}
+                  <div class="col-12 col-lg-auto h3">อำเภอ/เขต <span class="alert alert-success p-2 rounded "> {this.state.amphur_name}</span> </div>
+                  <div class="col-12 col-lg-auto h3">จังหวัด{" "} <span class="alert alert-success p-2 rounded "> {this.state.province_name}</span></div>
+                  <div class="col-12 col-lg-auto h3"> รหัสไปรษณีย์ <span class="alert alert-success p-2 rounded "> {this.state.zipcode}
                     </span></div>
                   
                 </div>
